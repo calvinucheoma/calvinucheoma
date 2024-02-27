@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-I am a full stack developer focusing on MERN stack with over 3 years experience working on the design, layout and structure of web applications.
+I am a web developer focusing on MERN stack with over 4 years experience working on the design, layout and structure of web applications.
 
 * 🌍  I'm based in Nigeria.
 * 🖥️  See my portfolio at [Chukwuma's Portfolio.](http://chukwuma-ucheoma-portfolio.netlify.app)
 * ✉️  You can contact me at [calvinucheoma@gmail.com](mailto:calvinucheoma@gmail.com)
-* 🧠  I'm learning Nodejs.
-* 🤝  I'm open to collaborating on projects involving mern stack.
+* 🧠  I'm learning Nextjs.
+* 🤝  I'm open to collaborating on projects involving nextjs.
 
 <a href="https://www.github.com/calvinucheoma" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/calvinucheoma?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/_chukss__" target="_blank" rel="noreferrer"><img
